@@ -31,8 +31,8 @@ const links = [
         statusText: StatusText[StatusType.LAUNCHED]
     },
     {
-        name: "o CryptoPru",
-        url: "https://caiollaz.github.io/CryptoPru/",
+        name: "o CryptoP",
+        url: "https://caiollaz.github.io/CryptoP/",
         type: LinkType.PROJECT,
         status: StatusType.LAUNCHED,
         statusText: StatusText[StatusType.LAUNCHED]

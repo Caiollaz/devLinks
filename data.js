@@ -45,6 +45,13 @@ const links = [
         statusText: StatusText[StatusType.BETA]
     },
     {
+        name: "o PortDev",
+        url: "https://portdevs.vercel.app/",
+        type: LinkType.PROJECT,
+        status: StatusType.BETA,
+        statusText: StatusText[StatusType.BETA]
+    },
+    {
         name: "a Legana",
         url: "https://legana.vercel.app/",
         type: LinkType.PROJECT,

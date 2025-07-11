@@ -18,49 +18,14 @@ const StatusText = {
 const links = [
     {
         name: "o DojoPlanner",
-        url: "https://dojoplanner.legana.com.br/",
-        type: LinkType.PROJECT,
-        status: StatusType.LAUNCHED,
-        statusText: StatusText[StatusType.LAUNCHED]
-    },
-    {
-        name: "o Convite360",
-        url: "https://convite360.vercel.app/",
-        type: LinkType.PROJECT,
-        status: StatusType.LAUNCHED,
-        statusText: StatusText[StatusType.LAUNCHED]
-    },
-    {
-        name: "o CryptoP",
-        url: "https://caiollaz.github.io/CryptoP/",
-        type: LinkType.PROJECT,
-        status: StatusType.LAUNCHED,
-        statusText: StatusText[StatusType.LAUNCHED]
-    },
-    {
-        name: "o Finance.ia",
-        url: "https://financelab.vercel.app/",
-        type: LinkType.PROJECT,
-        status: StatusType.BETA,
-        statusText: StatusText[StatusType.BETA]
-    },
-    {
-        name: "o PortDev",
-        url: "https://portdevs.vercel.app/",
-        type: LinkType.PROJECT,
-        status: StatusType.BETA,
-        statusText: StatusText[StatusType.BETA]
-    },
-    {
-        name: "a Legana",
-        url: "https://legana.vercel.app/",
+        url: "https://dojoplanner.com.br",
         type: LinkType.PROJECT,
         status: StatusType.DEVELOPMENT,
         statusText: StatusText[StatusType.DEVELOPMENT]
     },
     {
-        name: "a Certifique.me",
-        url: "https://certifique-me.vercel.app/",
+        name: "o Proficio",
+        url: "https://proficio.com.br",
         type: LinkType.PROJECT,
         status: StatusType.DEVELOPMENT,
         statusText: StatusText[StatusType.DEVELOPMENT]

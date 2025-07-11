@@ -24,7 +24,7 @@ const links = [
         statusText: StatusText[StatusType.DEVELOPMENT]
     },
     {
-        name: "o Proficio",
+        name: "a Profício",
         url: "https://proficio.com.br",
         type: LinkType.PROJECT,
         status: StatusType.DEVELOPMENT,
